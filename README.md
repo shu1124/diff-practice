@@ -2,4 +2,4 @@
 
 git 動画講座 diff 練習用
 staging 用の変更その３
-main に変更
+mergetool 用のコンフリクト
