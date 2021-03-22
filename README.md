@@ -5,3 +5,4 @@ staging 用の変更その３
 mergetool 用のコンフリクト
 rebase-practice 用の変更
 rebase-conflict
+rebase用
